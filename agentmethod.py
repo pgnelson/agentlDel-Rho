@@ -689,4 +689,4 @@ with open("frozenPopulation.bin", "wb") as storage:
 # Output the time that the program finishes
 sys.stdout.write("[" + time.asctime() + "]: ")
 sys.stdout.write("Program done\n")
-sys.stdout.flush()
+sys.stdout.flush()#aasdfgasfgads
